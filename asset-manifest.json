@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Doha-store/static/css/main.d49e17d7.css",
+    "main.js": "/Doha-store/static/js/main.58525948.js",
+    "static/media/viwe1.jpg": "/Doha-store/static/media/viwe1.709f5229b072a2a79cb1.jpg",
+    "static/media/viwe2.png": "/Doha-store/static/media/viwe2.4899b38950fdd854d537.png",
+    "static/media/header.png": "/Doha-store/static/media/header.86615ea6f38901c47c22.png",
+    "static/media/Group 18.png": "/Doha-store/static/media/Group 18.c8c00c29683da43e4fbc.png",
+    "static/media/Group 2 (1).png": "/Doha-store/static/media/Group 2 (1).7de6992e71e5ec4fa633.png",
+    "static/media/banner3.png": "/Doha-store/static/media/banner3.12049ea2d5ce9754caa3.png",
+    "static/media/Frame 49.png": "/Doha-store/static/media/Frame 49.9913b90f80701579c2eb.png",
+    "static/media/slick.svg": "/Doha-store/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Doha-store/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Doha-store/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Doha-store/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Doha-store/index.html",
+    "main.d49e17d7.css.map": "/Doha-store/static/css/main.d49e17d7.css.map",
+    "main.58525948.js.map": "/Doha-store/static/js/main.58525948.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d49e17d7.css",
+    "static/js/main.58525948.js"
+  ]
+}
