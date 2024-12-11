@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Doha-store/static/css/main.d49e17d7.css",
-    "main.js": "/Doha-store/static/js/main.58525948.js",
+    "main.js": "/Doha-store/static/js/main.776f0d9a.js",
     "static/media/viwe1.jpg": "/Doha-store/static/media/viwe1.709f5229b072a2a79cb1.jpg",
     "static/media/viwe2.png": "/Doha-store/static/media/viwe2.4899b38950fdd854d537.png",
     "static/media/header.png": "/Doha-store/static/media/header.86615ea6f38901c47c22.png",
@@ -15,10 +15,10 @@
     "static/media/slick.woff": "/Doha-store/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Doha-store/index.html",
     "main.d49e17d7.css.map": "/Doha-store/static/css/main.d49e17d7.css.map",
-    "main.58525948.js.map": "/Doha-store/static/js/main.58525948.js.map"
+    "main.776f0d9a.js.map": "/Doha-store/static/js/main.776f0d9a.js.map"
   },
   "entrypoints": [
     "static/css/main.d49e17d7.css",
-    "static/js/main.58525948.js"
+    "static/js/main.776f0d9a.js"
   ]
 }
